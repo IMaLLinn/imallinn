@@ -1,36 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" fill="none">
-  <rect width="1000" height="260" rx="24" fill="#0F1113"/>
-  <rect x="28" y="28" width="944" height="204" rx="18" fill="#15181B" stroke="#2A2F35"/>
-  
-  <text x="64" y="78" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.5">
-    PERSONAL PROFILE
-  </text>
-  
-  <text x="64" y="145" fill="#F3F4F6" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">
-    Linn
-  </text>
-  
-  <text x="64" y="178" fill="#B7BDC6" font-family="Arial, Helvetica, sans-serif" font-size="18">
-    @IMaLLinn
-  </text>
-  
-  <text x="64" y="205" fill="#B7BDC6" font-family="Arial, Helvetica, sans-serif" font-size="18">
-    Data Science Student · Ocean University of China
-  </text>
-
-  <line x1="700" y1="58" x2="920" y2="58" stroke="#2A2F35"/>
-  
-  <text x="700" y="92" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">
-    FOCUS
-  </text>
-  <text x="700" y="122" fill="#F3F4F6" font-family="Arial, Helvetica, sans-serif" font-size="18">
-    Code · Research · Notes
-  </text>
-
-  <text x="700" y="165" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">
-    CURRENT
-  </text>
-  <text x="700" y="195" fill="#F3F4F6" font-family="Arial, Helvetica, sans-serif" font-size="18">
-    Building and learning
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" fill="none" role="img" aria-label="linn. Data Science student at Ocean University of China">
+  <text x="32" y="35" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6" fill="#A4ADB8">IMaLLinn</text>
+  <text x="968" y="35" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.1" fill="#838B94">01 / PROFILE</text>
+  <text x="27" y="165" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="400" letter-spacing="-3.5" fill="#F0F2F4">linn.</text>
+  <text x="32" y="210" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="0.15" fill="#A4ADB8">Data Science · Ocean University of China</text>
+  <line x1="32" y1="245" x2="968" y2="245" stroke="#3B424A" stroke-width="1"/>
 </svg>
