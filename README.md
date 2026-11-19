@@ -27,6 +27,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMaLLinn&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMaLLinn&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMaLLinn&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=stars&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMaLLinn&layout=compact&theme=transparent&hide_border=true&exclude_repo=imallinn.github.io" height="165" />
 </div>
