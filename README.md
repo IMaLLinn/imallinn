@@ -24,6 +24,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,docker" />
 </p>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMaLLinn&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=stars" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMaLLinn&layout=compact&theme=transparent&hide_border=true&exclude_repo=imallinn.github.io" height="165" />
+</div>
+
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMaLLinn&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" />
