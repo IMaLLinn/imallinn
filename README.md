@@ -22,7 +22,7 @@
 
 ### 🛠️ Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,vite,astro,mysql,git,github" />
 </p>
 
 ### 📈 Activity Graph
